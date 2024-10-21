@@ -213,7 +213,7 @@ _Protocol extensions and related protocols_
 
 - [CalDAV](https://en.wikipedia.org/wiki/CalDAV)
 - [CardDAV](https://en.wikipedia.org/wiki/CardDAV)
-- [GroupDAV](https://en.wikipedia.org/wiki/GroupDAV)
+- [GroupDAV](https://web.archive.org/web/20221224121500/https://en.wikipedia.org/wiki/GroupDAV)
 - [Microsoft Extensions](https://docs.microsoft.com/en-us/openspecs/sharepoint_protocols/ms-wdvme/8cafdf55-ee5c-443e-bdb7-2cb2ab1fb2c3)
 
 ## Contributing
